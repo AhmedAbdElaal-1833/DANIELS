@@ -1,0 +1,32 @@
+/* #home{
+    background-color: black;
+    height: 100vh;
+    h1{
+        font-size: 80px;
+    }
+    p{
+        font-size: 25px;
+    }
+    .a-color{
+        color: rgb(255, 93, 120);
+    }
+    i{
+    font-size: 20px;
+}
+.icon{
+    width: 40px;
+    height: 40px;
+    color: wheat;
+
+}
+.icon:hover{
+    cursor: pointer;
+    border: 1px solid rgb(255, 93, 120)  !important;
+}
+
+} */
+.btn-itm {
+    border: none;
+    display:flex;
+    justify-content: center;
+}
